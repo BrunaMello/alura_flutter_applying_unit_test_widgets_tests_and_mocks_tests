@@ -1,55 +1,51 @@
-![Thumbnail GitHub](https://raw.githubusercontent.com/alura-cursos/alura_flutter_curso_7/master/Card%20Testes.png)
 
-# Flutter: Testes de Unidade, de Widgets e Mocks
+# Flutter: Unit, Widget and Mocks Tests
 
-Esse curso de Flutter vai te ensinar a: 
+This Flutter course will teach you how to:
 
--> Verificar um código desconhecido
+- > Check an unknown code
 
--> Criar mecanismos de Qualidade para seu produto
+- > Create Quality mechanisms for your product
 
--> Formular testes
+- > Formulate tests
 
--> Utilizar métodos de busca de Widget sofisticados
+- > Use sophisticated widget search methods
 
--> Criar confiabilidade ao seu código.
+- > Create reliability to your code.
 
 
-## 🔨 Projeto: AluraBank
+## 🔨 Project: AluraBank
 
-O projeto do curso consiste em criar diversos testes em um projeto novo, com o intuito de instruir sobre a qualidade dos aplicativos criados pelo aluno!
-
+The course project consists of creating several tests in a new project, in order to instruct on the quality of the applications created by the student!
 ![](https://user-images.githubusercontent.com/22684176/180311121-619bd614-b439-4177-ae2c-9b9d79368002.png)
 
-## ✔️ Técnicas e tecnologias
+## ✔️ Techniques and technologies
 
-**Veja mais de perto o que você aprenderá sobre** :
-- `Teste de Unidade`: Teste capaz de verificar pequenos objetos.
-- `Teste de Widget`: Teste capaz de  verificar Widgets e suas dependencias, com construção de tela.
-- `test()`: método capaz de iniciar um teste.
-- `expect()`: método que compara o resultado do testes com o esperado.
-- `group()`: método que agrupa diversso testes.
-- `pump()`: método que aguarda micro processos para construção na tela.
-- `Finders`: Aqueles com a capacidade de procurar e encontrar Widgets em uma extensa árvore sendo testada..
-- `Matchers`: Aqueles com capacidade de comparar um resultado com o esperado;
-- `Ações`: Atividades que o `tester` pode usufruir para garantir a usabilidade do aplicativo. 
-- `Dublês`: Aqueles com capacidade de imitar uma dependência.
-- `mockito`: Pacote que permite a criação de dublês.
+**Take a closer look at what you will learn about:** :
+- `Unit Test`: Test capable of checking small objects.
+- `Widget Test`: Test capable of checking widgets and their dependencies, with screen construction.
+- `test()`: method capable of starting a test.
+- `expect()`: method that compares the test result with the expected.
+- `group()`: method that groups different tests.
+- `pump()`: method that awaits micro processes for construction on the screen.
+- `Finders`: Those with the ability to search and find widgets in an extensive tree being tested..
+- `Matchers`: Those with the ability to compare a result with that expected;
+- `Actions`: Activities that o `tester` can take advantage to ensure the usability of the application. 
+- `Mock`: Those with the ability to imitate a dependency.
+- `mockito`: Package that allows the creation of stuntmen.
 
- 
+## 🛠️ Open and run the project
 
+**To run this project you need:**
 
-## 🛠️ Abrir e rodar o projeto
-
-**Para executar este projeto você precisa:**
-
-- Ter uma IDE, que pode ser o  [Android Studio](https://developer.android.com/) instalado na sua máquina
-- Ter a [SDK do Flutter](https://docs.flutter.dev/get-started/install) na versão 3.0.0
+- Having an IDE, which can be the  [Android Studio](https://developer.android.com/) installed on 
+  your machine
+- Have the [SDK do Flutter](https://docs.flutter.dev/get-started/install) in version 3.0.0
 
 
-## 📚 Mais informações do curso
+## 📚 More Information
 
-Gostou do projeto e quer conhecer mais? Você pode [acessar o curso]() que desenvolve o projeto desde o começo!
+Certificate: 'https://cursos.alura.com.br/certificate/ff552ba3-1a19-41d1-a1c2-b38db30424d8'
 
-Esse curso faz parte da [formação de Flutter da Alura](https://cursos.alura.com.br/formacao-flutter)
+<img src="cert.png" alt="certificate">
 
